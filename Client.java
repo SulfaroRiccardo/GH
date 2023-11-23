@@ -12,8 +12,6 @@ import java.util.Scanner;
 
 public class Client {
 
-    private static final double NUM_CLIENTS = 10;
-
     public static void main(String[] args) {
 
         String serverAddress = AppServer.getServerAddress();
