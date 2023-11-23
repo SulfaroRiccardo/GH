@@ -9,7 +9,6 @@ import java.util.Date;
 
 public class AppServer {
 
-    // we could refactor these two variables into a class named ServerInfo.
     private static final int serverPort = 8080;
 
     private static final String serverAddress = "localhost";
